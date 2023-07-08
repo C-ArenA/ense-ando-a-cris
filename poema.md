@@ -8,11 +8,9 @@ function hola(){
 }
 ```
 
+:)
+
 Las rosas son rojas
 Me gustan las monjas
 Si me ves perdido
 Es porque ya no me gustan
-
-
-
-[] comer maíz
