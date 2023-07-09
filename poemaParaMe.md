@@ -3,6 +3,6 @@
 Me llamo Carlos
 Me gustan los osos pardos
 Pero el jucumari
-Es más lindo que mi prima mary
+Es más lindo que mi prima mar
 
-miau hola soy yhassir y me gusta ser yhassir
+ser un gato es ser miau
