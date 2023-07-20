@@ -17,3 +17,5 @@ Si me ves perdido
 Es porque ya no me gustan
 
 editando desde el cel jajaja
+
+Editando desde obsidian jojojo
